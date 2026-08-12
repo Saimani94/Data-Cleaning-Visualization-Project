@@ -69,7 +69,7 @@ The script creates `data/cleaned_sales_data.csv` and PNG visualizations in `repo
 
 For interactive exploration, open `notebooks/data_cleaning_visualization.ipynb` in Jupyter Notebook or VS Code.
 
-## Expected Learning Outcomes
+## Learning Outcomes
 
 This project provides hands-on practice with data preprocessing, exploratory data analysis, outlier handling, visualization, and communicating insights through a reproducible GitHub workflow.
 
